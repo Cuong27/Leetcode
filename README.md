@@ -1,2 +1,2 @@
 # Leetcode
-This is where i upload my leetcode solutions
+This is where I upload my LeetCode solutions for the FTEL Embedded Bootcamp
